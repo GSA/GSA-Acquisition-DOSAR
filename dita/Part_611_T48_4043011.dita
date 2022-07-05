@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_611_T48_4043011">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 611</ph> - DESCRIBING AGENCY NEEDS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 486(c); 22 U.S.C. 2658.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           64 FR 43622, Aug. 11, 1999, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_611_002_T48_4043011091.dita#Section_611_002_T48_4043011091">611.002 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_611_002_70_T48_4043011092.dita#Section_611_002_70_T48_4043011092">611.002-70 Metric system implementation.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_611_1_T48_40430111.dita#Subpart_611_1_T48_40430111">Subpart 611.1 - Selecting and Developing Requirements Documents</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_611_103_T48_4043011191.dita#Section_611_103_T48_4043011191">611.103 Market acceptance.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_611_5_T48_40430112.dita#Subpart_611_5_T48_40430112">Subpart 611.5 - Liquidated Damages</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_611_501_T48_4043011291.dita#Section_611_501_T48_4043011291">611.501 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_611_6_T48_40430113.dita#Subpart_611_6_T48_40430113">Subpart 611.6 - Priorities and Allocations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_611_600_T48_4043011391.dita#Section_611_600_T48_4043011391">611.600 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_611_602_T48_4043011392.dita#Section_611_602_T48_4043011392">611.602 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_611_603_T48_4043011393.dita#Section_611_603_T48_4043011393">611.603 Procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

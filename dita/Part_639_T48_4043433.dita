@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_639_T48_4043433">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 639</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 486(c); 22 U.S.C. 2658.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           72 FR 51569, Sept. 10, 2007, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_639_1_T48_40434331.dita#Subpart_639_1_T48_40434331">Subpart 639.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_639_107_T48_4043433191.dita#Section_639_107_T48_4043433191">639.107 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_639_107_70_T48_4043433192.dita#Section_639_107_70_T48_4043433192">639.107-70 DOSAR solicitation provision and contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
