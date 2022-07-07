@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_607_T48_404308">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 607</ph> - ACQUISITION PLANNING</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           22 U.S.C. 2651a, 40 U.S.C. 121(c) and 48 CFR chapter 1.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_607_102_T48_404308091.dita#Section_607_102_T48_404308091">607.102 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_607_103_T48_404308092.dita#Section_607_103_T48_404308092">607.103 Agency-head responsibilities.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_607_105_T48_404308093.dita#Section_607_105_T48_404308093">607.105 Contents of written acquisition plans.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_607_5_T48_4043081.dita#Subpart_607_5_T48_4043081">Subpart 607.5 - Inherently Governmental Functions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_607_503_T48_404308191.dita#Section_607_503_T48_404308191">607.503 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

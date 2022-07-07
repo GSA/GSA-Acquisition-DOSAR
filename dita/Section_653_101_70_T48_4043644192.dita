@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_653_101_70_T48_4043644192">
+      <title class="- topic/title ">
+         <ph props="autonumber">653.101-70</ph> Policy.</title>
+      <conbody>
+         <p xtrc="P">The forms in FAR subpart 53.2 or in subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_653_2_T48_40436442"
+                  href="Subpart_653_2_T48_40436442.dita#Subpart_653_2_T48_40436442">653.2</xref> shall be used as precribed therein, except when the use of any form is prohibited by or inconsistent with local laws, or the supplies or services could not be obtained if the form were used. The contracting officer shall justify the exclusion of any form in accordance with FAR subpart 1.4 and 601.470.
+</p>
+      </conbody>
+   </concept>
+</dita>

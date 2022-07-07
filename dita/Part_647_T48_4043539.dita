@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_647_T48_4043539">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 647</ph> - TRANSPORTATION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           22 U.S.C. 2651a, 40 U.S.C. 121(c) and 48 CFR chapter 1.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           59 FR 66767, Dec. 28, 1994, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_647_000_T48_4043539091.dita#Section_647_000_T48_4043539091">647.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_647_2_T48_40435391.dita#Subpart_647_2_T48_40435391">Subpart 647.2 - Contracts for Transportation or for Transportation-Related Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_647_207_T48_4043539191.dita#Section_647_207_T48_4043539191">647.207 Solicitation provisions, contract clauses, and special requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_647_207_7_T48_4043539192.dita#Section_647_207_7_T48_4043539192">647.207-7 Liability and insurance.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_647_3_T48_40435392.dita#Subpart_647_3_T48_40435392">Subpart 647.3 - Transportation in Supply Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_647_305_T48_4043539291.dita#Section_647_305_T48_4043539291">647.305 Solicitation provisions, contract clauses, and transportation factors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_647_305_70_T48_4043539292.dita#Section_647_305_70_T48_4043539292">647.305-70 Notice of shipment.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_647_305_71_T48_4043539293.dita#Section_647_305_71_T48_4043539293">647.305-71 Shipping instructions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

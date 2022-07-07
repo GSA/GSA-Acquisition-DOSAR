@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_631_T48_4043327">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 631</ph> - CONTRACT COST PRINCIPLES AND PROCEDURES</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           22 U.S.C. 2651a, 40 U.S.C. 121(c) and 48 CFR chapter 1.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           59 FR 66764, Dec. 28, 1994, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_631_1_T48_40433271.dita#Subpart_631_1_T48_40433271">Subpart 631.1 - Applicability</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_631_101_T48_4043327191.dita#Section_631_101_T48_4043327191">631.101 Objectives.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_631_2_T48_40433272.dita#Subpart_631_2_T48_40433272">Subpart 631.2 - Contracts with Commercial Organizations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_631_205_T48_4043327291.dita#Section_631_205_T48_4043327291">631.205 Selected costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_631_205_6_T48_4043327292.dita#Section_631_205_6_T48_4043327292">631.205-6 Compensation for personal services.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
