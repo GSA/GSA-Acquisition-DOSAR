@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_606_T48_404307">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 606</ph> - COMPETITION REQUIREMENTS</title>
+      <title class="- topic/title ">PART 606—COMPETITION REQUIREMENTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_606_2_T48_4043071.dita#Subpart_606_2_T48_4043071">Subpart 606.2 - Full and Open Competition After Exclusion of Sources</xref>
+                        href="Subpart_606_2_T48_4043071.dita#Subpart_606_2_T48_4043071">Subpart 606.2—Full and Open Competition After Exclusion of Sources</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_606_3_T48_4043072.dita#Subpart_606_3_T48_4043072">Subpart 606.3 - Other Than Full and Open Competition</xref>
+                        href="Subpart_606_3_T48_4043072.dita#Subpart_606_3_T48_4043072">Subpart 606.3—Other Than Full and Open Competition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -110,7 +110,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_606_5_T48_4043073.dita#Subpart_606_5_T48_4043073">Subpart 606.5 - Advocates for Competition</xref>
+                        href="Subpart_606_5_T48_4043073.dita#Subpart_606_5_T48_4043073">Subpart 606.5—Advocates for Competition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

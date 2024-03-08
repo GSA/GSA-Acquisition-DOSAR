@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_645_T48_4043538">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 645</ph> - GOVERNMENT PROPERTY</title>
+      <title class="- topic/title ">PART 645—GOVERNMENT PROPERTY
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_645_1_T48_40435381.dita#Subpart_645_1_T48_40435381">Subpart 645.1 - General</xref>
+                        href="Subpart_645_1_T48_40435381.dita#Subpart_645_1_T48_40435381">Subpart 645.1—General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

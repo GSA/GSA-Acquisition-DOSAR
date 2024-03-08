@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_607_T48_404308">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 607</ph> - ACQUISITION PLANNING</title>
+      <title class="- topic/title ">PART 607—ACQUISITION PLANNING
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -35,7 +35,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_607_5_T48_4043081.dita#Subpart_607_5_T48_4043081">Subpart 607.5 - Inherently Governmental Functions</xref>
+                        href="Subpart_607_5_T48_4043081.dita#Subpart_607_5_T48_4043081">Subpart 607.5—Inherently Governmental Functions</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
