@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_636_T48_4043431">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 636</ph> - CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS</title>
+      <title class="- topic/title ">PART 636—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_636_1_T48_40434311.dita#Subpart_636_1_T48_40434311">Subpart 636.1 - General</xref>
+                        href="Subpart_636_1_T48_40434311.dita#Subpart_636_1_T48_40434311">Subpart 636.1—General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -60,7 +60,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_636_2_T48_40434312.dita#Subpart_636_2_T48_40434312">Subpart 636.2 - Special Aspects of Contracting for Construction</xref>
+                        href="Subpart_636_2_T48_40434312.dita#Subpart_636_2_T48_40434312">Subpart 636.2—Special Aspects of Contracting for Construction</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -74,7 +74,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_636_5_T48_40434313.dita#Subpart_636_5_T48_40434313">Subpart 636.5 - Contract Clauses</xref>
+                        href="Subpart_636_5_T48_40434313.dita#Subpart_636_5_T48_40434313">Subpart 636.5—Contract Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -94,7 +94,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_636_6_T48_40434314.dita#Subpart_636_6_T48_40434314">Subpart 636.6 - Architect-Engineer Services</xref>
+                        href="Subpart_636_6_T48_40434314.dita#Subpart_636_6_T48_40434314">Subpart 636.6—Architect-Engineer Services</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

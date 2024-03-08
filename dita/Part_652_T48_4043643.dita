@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_652_T48_4043643">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 652</ph> - SOLICITATION PROVISIONS AND CONTRACT CLAUSES</title>
+      <title class="- topic/title ">PART 652—SOLICITATION PROVISIONS AND CONTRACT CLAUSES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -28,7 +28,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_652_1_T48_40436431.dita#Subpart_652_1_T48_40436431">Subpart 652.1 - Instructions for Using Provisions and Clauses</xref>
+                        href="Subpart_652_1_T48_40436431.dita#Subpart_652_1_T48_40436431">Subpart 652.1—Instructions for Using Provisions and Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -60,7 +60,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_652_2_T48_40436432.dita#Subpart_652_2_T48_40436432">Subpart 652.2 - Text of Provisions and Clauses</xref>
+                        href="Subpart_652_2_T48_40436432.dita#Subpart_652_2_T48_40436432">Subpart 652.2—Text of Provisions and Clauses</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -90,7 +90,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_652_216_70_T48_4043643295.dita#Section_652_216_70_T48_4043643295">652.216-70 Ordering - Indefinite-Delivery Contract.</xref>
+                              href="Section_652_216_70_T48_4043643295.dita#Section_652_216_70_T48_4043643295">652.216-70 Ordering—Indefinite-Delivery Contract.</xref>
                      </p>
                   </li>
                   <li>
@@ -138,13 +138,13 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_652_228_70_T48_40436432913.dita#Section_652_228_70_T48_40436432913">652.228-70 Defense Base Act - Covered Contractor Employees.</xref>
+                              href="Section_652_228_70_T48_40436432913.dita#Section_652_228_70_T48_40436432913">652.228-70 Defense Base Act—Covered Contractor Employees.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_652_228_71_T48_40436432914.dita#Section_652_228_71_T48_40436432914">652.228-71 Worker's Compensation Insurance (Defense Base Act) - Services.</xref>
+                              href="Section_652_228_71_T48_40436432914.dita#Section_652_228_71_T48_40436432914">652.228-71 Worker's Compensation Insurance (Defense Base Act)—Services.</xref>
                      </p>
                   </li>
                   <li>
@@ -240,7 +240,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_652_242_71_652_242_72_T48_40436432930.dita#Section_652_242_71_652_242_72_T48_40436432930">652.242-71-652.242-72 [Reserved]</xref>
+                              href="Section_652_242_71—652_242_72_T48_40436432930.dita#"/>
                      </p>
                   </li>
                   <li>

@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_608_T48_404309">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 608</ph> - REQUIRED SOURCES OF SUPPLIES AND SERVICES</title>
+      <title class="- topic/title ">PART 608—REQUIRED SOURCES OF SUPPLIES AND SERVICES
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_608_4_T48_4043091.dita#Subpart_608_4_T48_4043091">Subpart 608.4 - Federal Supply Schedules</xref>
+                        href="Subpart_608_4_T48_4043091.dita#Subpart_608_4_T48_4043091">Subpart 608.4—Federal Supply Schedules</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -42,7 +42,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_608_8_T48_4043092.dita#Subpart_608_8_T48_4043092">Subpart 608.8 - Acquisition of Printing and Related Services</xref>
+                        href="Subpart_608_8_T48_4043092.dita#Subpart_608_8_T48_4043092">Subpart 608.8—Acquisition of Printing and Related Services</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -56,7 +56,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_608_70_T48_4043093.dita#Subpart_608_70_T48_4043093">Subpart 608.70 - Acquisition of Official Vehicles by Overseas Contracting Activities</xref>
+                        href="Subpart_608_70_T48_4043093.dita#Subpart_608_70_T48_4043093">Subpart 608.70—Acquisition of Official Vehicles by Overseas Contracting Activities</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

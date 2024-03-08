@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_609_T48_4043010">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 609</ph> - CONTRACTOR QUALIFICATIONS</title>
+      <title class="- topic/title ">PART 609—CONTRACTOR QUALIFICATIONS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_609_2_T48_40430101.dita#Subpart_609_2_T48_40430101">Subpart 609.2 - Qualifications Requirements</xref>
+                        href="Subpart_609_2_T48_40430101.dita#Subpart_609_2_T48_40430101">Subpart 609.2—Qualifications Requirements</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -48,7 +48,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_609_4_T48_40430102.dita#Subpart_609_4_T48_40430102">Subpart 609.4 - Debarment, Suspension, and Ineligibility</xref>
+                        href="Subpart_609_4_T48_40430102.dita#Subpart_609_4_T48_40430102">Subpart 609.4—Debarment, Suspension, and Ineligibility</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -140,7 +140,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_609_5_T48_40430103.dita#Subpart_609_5_T48_40430103">Subpart 609.5 - Organizational and Consultant Conflicts of Interests</xref>
+                        href="Subpart_609_5_T48_40430103.dita#Subpart_609_5_T48_40430103">Subpart 609.5—Organizational and Consultant Conflicts of Interests</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
